@@ -1,0 +1,1 @@
+# Duplicate-and-similar-images-remover
